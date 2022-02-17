@@ -1,0 +1,236 @@
+Problème: 
+- je cherche à modifier le hover du logo IESEG
+- je veux réussir à afficher un logo pour VSCO
+
+
+.container{
+	width: 700px;
+	margin: 40px auto;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.upline{
+	background-color: white;
+	font-size: 20px;
+	color: rgb(55, 75, 115);
+	margin: 0px;
+	padding: 1px 1px 1px 1px;
+	border: 0px 1px 0px 0px;
+	box-shadow: 0 10px 30px rgba(0, 0, 0, .1);
+	border-radius: 6px;
+	border-color: #FF506E;
+	border-width: 1px;
+	border-style: solid;
+}
+
+.logo{
+	background-color: white;
+	text-align: left;
+	width: 150px;
+}
+
+.logo: hover{
+	border-radius: 6px;
+	border-color: #FF506E;
+	border-width: 1px;
+	border-style: solid;
+}
+
+.text-up-link{
+	text-align: right;
+	font-family: 'Montserrat', sans-serif;
+	list-style:none;
+	padding-left: 0px;
+}
+
+.text-up-link li {
+	display: inline;
+	padding: 10px;
+}
+
+.card-pink{
+	background-color: white;
+	padding: 40px;
+	padding-top: 20px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, .2);
+	border-radius: 4px;
+	margin: 20px 0px;
+	text-align: center;
+	border-radius: 6px;
+	border-color: #FF506E;
+	border-width: 1px;
+	border-style: solid;
+}
+
+.img-circle {
+	width: 150px;
+	border-radius: 50%;
+	box-shadow: 0px 10px 10px rgba(0, 0, 0, .2);
+}
+
+h1,h3{	
+	font-family: 'Montserrat', sans-serif;
+	font-style: italic;
+	font-weight: 800;
+	justify-content: justify;
+	color: rgb(55, 75, 115);
+}
+
+h4,h5{	
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 800;
+	justify-content: justify;
+	color: rgb(55, 75, 115);
+}
+
+h1{
+	font-size: 40px;
+}
+
+h3{	
+	font-size: 25px;
+}
+
+h4{
+	font-size: 18px;
+}
+
+h5{
+	font-size: 12px;
+}
+
+.btn-darkpink{
+	width: 5px;
+	padding: 60px 1px 1px 1px;
+	border-radius: 5px;
+}
+.btn-darkpink:hover{
+	background-color: white;
+	width: 5px;
+}
+
+.card-white{
+	text-align: center;
+	padding-left: 0px;
+	list-style: none;
+	background-color: white;
+	box-shadow: 0 10px 30px rgba(0, 0, 0, .1);
+	border-radius: 6px;
+	margin: 16px 10px;
+	padding: 5px 10px;
+	border-color: rgb(55, 75, 115);
+	border-width: 1px;
+	border-style: solid;
+}
+
+.card-white li{
+	display: inline;
+	padding: 10px;
+}
+
+.card-white2{
+	text-align: justify;
+	padding-left: 0px;
+	list-style: none;
+	background-color: white;
+	box-shadow: 0 10px 30px rgba(0, 0, 0, .1);
+	border-radius: 6px;
+	margin: 10px 5px;
+	padding: 5px 10px;
+	border-color: rgb(55, 75, 115);
+	border-width: 1px;
+	border-style: solid;
+	height: 250px;
+}
+
+.arrang-photo{
+	background-color: white;
+	list-style:none;
+	padding-left: 0px;
+	margin: 1px;
+	padding-top: 1px;
+	padding-right: 1px;
+	padding-bottom: 2px;
+}
+
+.photo{
+	width: 200px;
+	padding: 5px;
+	margin: 5px;
+	text-align: center;
+}
+
+.arrang-photo li {
+	display: inline;
+	padding: 10px;
+	margin: 10px;
+	text-align: center;
+}
+
+.list-inline{
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	list-style:none;
+	padding-left: 0px;
+}
+
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+
+i{
+	text-decoration: none;
+	color:rgb(55, 75, 115);
+	font-weight: 550;
+	font-size: 35px;
+}
+
+i:hover{
+	color: #FF506E;
+}
+
+li,a{
+	text-decoration: none;
+	color:rgb(55, 75, 115);
+	font-weight: 550;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
